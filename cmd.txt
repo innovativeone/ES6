@@ -1,0 +1,5 @@
+mongod --port 27017 --dbpath C:\MongoDB\data\db
+
+$ npm install --save-dev babel-cli
+$ npm run build
+$ npm install babel-preset-es2015 --save-dev
